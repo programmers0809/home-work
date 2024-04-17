@@ -1,0 +1,25 @@
+.in{
+    display: flex;
+    gap: 250px;
+    padding: 200px;
+}
+.box1{
+    background-color: aqua;
+    width: 250px;
+    height: 4o0px;
+}
+.box2{
+    background-color: aqua;
+    width: 250px;
+    height: 400px;
+    transform: skewX(30deg);
+}
+.box3{
+    background-color: aqua;
+    width: 250px;
+    height: 400px;
+    transform: skewX(-30deg);
+}
+body{
+    background-color: blue;
+}
